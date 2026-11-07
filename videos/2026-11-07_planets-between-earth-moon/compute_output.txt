@@ -1,0 +1,11 @@
+sum of 7 planet diameters km: 387941
+mean: centre 384400 km, surface gap 376292 km, gap - planets = -11649 km
+apogee: centre 405500 km, surface gap 397392 km, gap - planets = +9451 km
+perigee: centre 363300 km, surface gap 355192 km, gap - planets = -32749 km
+Earths across mean distance (centre): 30.134838507369082
+Earths across mean surface gap: 29.4991846973973
+Jupiter share of planet line %: 36.85715095852204
+Jupiter+Saturn share %: 67.92785500888021
+Jupiter / Earth diameter: 11.209156475384132
+light time mean distance s: 1.2822203819416966
+mean distance miles: 238855.08629603116  apogee miles: 251966.0184522389  planets miles: 241055.36168774357
