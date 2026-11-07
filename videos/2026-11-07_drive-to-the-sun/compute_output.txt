@@ -1,0 +1,8 @@
+100 km/h in mph: 62.14
+Moon: 3844 h = 160.2 days = 5.26 months
+Sun: 1495979 h = 170.7 years; arrive year if leaving Nov 2026: 2197.5
+Sun (NSSDC 149.6e6 km): 170.7 years
+Sunlight time: 499.0 s = 8 min 19.0 s
+Proxima at 4.2 ly: 3.973e+13 km = 39.7 trillion km; drive 45.33 million years
+Proxima at 4.23 ly: 4.002e+13 km = 40.0 trillion km; drive 45.65 million years
+Proxima at 4.24 ly: 4.011e+13 km = 40.1 trillion km; drive 45.76 million years
