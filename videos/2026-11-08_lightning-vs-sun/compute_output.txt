@@ -1,0 +1,7 @@
+Sun 5,500 C -> 9,932 F ; 10,000 F -> 5,538 C
+Lightning 30,000 C -> 54,032 F ; 50,000 F -> 27,760 C
+Ratio in C: 5.45x ; ratio in F: 5.00x
+Ratio in kelvin: 5.24x ; using Sun 5,772 K effective: 5.24x
+Ratio w/ Britannica 5,537 C: 5.42x
+44 flashes/s -> per minute 2,640, per day 3,801,600, per year 1.39 billion
+Earthdata seasonal range 35-55/s brackets 44; NTRS 44 +/- 5

@@ -16,3 +16,4 @@ Before picking a topic, read this whole list, the folder names in videos/ and th
 | before 2026-11-07 | short | What If Betelgeuse Replaced the Sun? ☀️💥 | series: What If #4 — Betelgeuse in the Sun's place |
 | 2026-11-07 | short | All 7 Planets Fit Between Earth and the Moon… Sometimes 🤯 | one-off — all planets between Earth and Moon (apogee vs average distance) |
 | 2026-11-07 | short | How Long Would It Take to DRIVE to the Sun? 🚗☀️ | series: How Long Would It Take To #1 — driving at 100 km/h to Moon, Sun, Proxima Centauri |
+| 2026-11-08 | short | Lightning vs. the Sun's Surface: Which Is HOTTER? ⚡☀️ | one-off, cliffhanger — lightning channel temperature (~30,000 °C) vs Sun's surface (~5,500 °C), 44 flashes/s worldwide, thunder from expanding air |
