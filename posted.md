@@ -17,3 +17,4 @@ Before picking a topic, read this whole list, the folder names in videos/ and th
 | 2026-11-07 | short | All 7 Planets Fit Between Earth and the Moon… Sometimes 🤯 | one-off — all planets between Earth and Moon (apogee vs average distance) |
 | 2026-11-07 | short | How Long Would It Take to DRIVE to the Sun? 🚗☀️ | series: How Long Would It Take To #1 — driving at 100 km/h to Moon, Sun, Proxima Centauri |
 | 2026-11-08 | short | Lightning vs. the Sun's Surface: Which Is HOTTER? ⚡☀️ | one-off, cliffhanger — lightning channel temperature (~30,000 °C) vs Sun's surface (~5,500 °C), 44 flashes/s worldwide, thunder from expanding air |
+| 2026-11-09 | short | All of Earth's Water in ONE Ball Is Shockingly Small 🌍💧 | one-off — all of Earth's water gathered into one sphere (~1,385 km wide, USGS), vs Earth and the Moon (<half Moon's width), fresh lakes & rivers sphere ~56 km; 71% surface coverage |
