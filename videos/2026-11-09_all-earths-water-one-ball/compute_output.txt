@@ -1,0 +1,12 @@
+all-water sphere diameter from volume: 1383.3 km (USGS says ~1,385)
+liquid fresh sphere diameter: 272.8 km (USGS 272.8)
+lakes+rivers sphere diameter: 56.2 km (USGS 56.2)
+1,385 km in miles: 861
+56.2 km in miles: 34.9
+water ball / Moon diameter (3480 km): 0.398
+water ball / Moon diameter (3474 km): 0.399
+Earth eq. diameter / water ball: 9.21
+Earth / lakes+rivers ball: 227
+water ball / lakes ball diameter: 24.6; volume ratio 14885
+lakes+rivers share of all water: 0.0067% (USGS ~1/150 of 1% = 0.0067%)
+draw scale 0.062716 px/km: ball r=43.43px moon r=108.94px lakes r=1.762px
