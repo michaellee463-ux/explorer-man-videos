@@ -1,0 +1,98 @@
+{
+ "light_day_km": 25902068371.199997,
+ "light_day_billion_km": 25.9020683712,
+ "light_day_billion_miles": 16.09479910522548,
+ "light_day_AU": 173.1446326742403,
+ "flight_days": 17971,
+ "flight_years": 49.20191649555099,
+ "speed_km_s": 16.944444444444443,
+ "speed_mph_from_kmh": 37903.64272647737,
+ "38000mph_in_kmh": 61155.07200000001,
+ "sanity_distance_if_constant_speed_billion_km": 26.309544,
+ "moon_light_s": 1.2822203819416966,
+ "sun_light_s": 499.0047838361564,
+ "sun_light_min_s": [
+  8.0,
+  19.004783836156378
+ ],
+ "neptune_from_sun_light_h": 4.16807606943145,
+ "voyager_light_h": 24.0,
+ "round_trip_h": 48.0,
+ "proxima_km": 40174991951814.37,
+ "years_to_proxima_at_61000kmh": 75131.92167916722,
+ "years_to_proxima_at_17.0km_s": 74886.39252335294,
+ "proxima_in_light_days": 1551.0341250000001,
+ "light_day_as_pct_of_proxima": 0.06447311402642414,
+ "earth_helio_lon": 55.708741228961024,
+ "earth_sun_dist_AU": 0.9885335821487141,
+ "sun_geo_lon": 235.708741228961,
+ "planets": {
+  "Mercury": {
+   "helio_lon": 126.55759684795224,
+   "helio_r": 0.32676990668636574,
+   "geo_lon": 216.5494897475334,
+   "geo_dist_AU": 0.9346416267162889
+  },
+  "Venus": {
+   "helio_lon": 70.9158609562376,
+   "helio_r": 0.7209164365469247,
+   "geo_lon": 202.8595607441078,
+   "geo_dist_AU": 0.348641273908059
+  },
+  "Mars": {
+   "helio_lon": 108.63061485764587,
+   "helio_r": 1.6120966627157305,
+   "geo_lon": 146.46485340861827,
+   "geo_dist_AU": 1.2865485370941538
+  },
+  "Jupiter": {
+   "helio_lon": 135.00464530693714,
+   "helio_r": 5.320187387429549,
+   "geo_lon": 145.71379094178832,
+   "geo_dist_AU": 5.227629754486421
+  },
+  "Saturn": {
+   "helio_lon": 12.534045822441477,
+   "helio_r": 9.420425610925612,
+   "geo_lon": 8.08394188639719,
+   "geo_dist_AU": 8.726474770677937
+  },
+  "Uranus": {
+   "helio_lon": 63.20723701333805,
+   "helio_r": 19.427268571375496,
+   "geo_lon": 63.607909304522984,
+   "geo_dist_AU": 18.44764288041644
+  },
+  "Neptune": {
+   "helio_lon": 2.9328409047223984,
+   "helio_r": 29.876527412778763,
+   "geo_lon": 1.3923759271023015,
+   "geo_dist_AU": 29.289284298295186
+  }
+ },
+ "neptune_geo_light_h": 4.059859161107366,
+ "neptune_geo_light_h_m": [
+  4.0,
+  3.5915496664419777
+ ],
+ "moon_geo_lon": 337.4696365183348,
+ "moon_elongation_from_sun": 101.76089528937382,
+ "voyager_ecl_lon_lat": [
+  256.3536254118047,
+  34.99808114178844
+ ],
+ "proxima_ecl_lon_lat": [
+  239.11332452803805,
+  -44.765624244347656
+ ],
+ "angle_voyager_to_proxima_deg": 81.28169235674548,
+ "voyager_sun_dist_AU_at_milestone": 172.3856632670462,
+ "voyager_sun_light_h": 23.89479739861801,
+ "range_rate_km_s": 25.501034686163063,
+ "opposition_dates_check": {
+  "Jupiter": "2027-02-11",
+  "Saturn": "2026-10-05",
+  "Uranus": "2026-11-26",
+  "Neptune": "2026-09-26"
+ }
+}
