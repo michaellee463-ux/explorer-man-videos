@@ -1,0 +1,15 @@
+USGS radius from diameter: 6375.0 km
+Years drilling to reach max depth: 19
+Kola fraction of way to centre: 0.192 %  (with 6,375 km: 0.192 %)
+Unexplored remainder: 99.81 %
+On a globe 1 m wide, Kola depth = 0.96 mm
+Outer core bottom depth (USGS 2900+2200): 5100 km (Britannica: ~5,100 km)
+Inner core radius from depths:  1270 km (Space.com 1,221; USGS 1,250)
+Mantle base as fraction of the way to centre: 45.5 %
+Kola vs thinnest crust (5 km oceanic): 2.45x ; vs 30-40 km continental: 41% - 31%
+Cross-section R=420px: mantle base r=229px, inner core r=84px, Kola depth=0.81px, crust 35km=2.31px
+Cross-section R=470px: mantle base r=256px, inner core r=94px, Kola depth=0.90px, crust 35km=2.58px
+Walk to centre at 5.0 km/h nonstop: 1274 h = 53.1 days
+Uniform-density half-period (fall end to end): 42.2 min ; to centre 21.1 min
+Pressure: 3.3–3.6 million atm -> 'more than 3 million times sea-level air pressure' OK
+Temperature: 5,200 C (Space.com) – 6,000 C (LiveScience) -> 'about 5,000-6,000 C' OK
