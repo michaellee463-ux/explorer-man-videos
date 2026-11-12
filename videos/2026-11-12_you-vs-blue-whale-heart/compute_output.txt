@@ -1,0 +1,10 @@
+110 ft = 33.5 m (ROM: about 33 m; Live Science: 34 m)
+330,000 lb = 149.7 tonnes (ROM: up to 150 tonnes)
+180 kg = 397 lb (NOAA: about 400 lb)
+whale heart / human heart: 424x to 900x  -> 'more than 400 times heavier' holds for every value in range: True
+  vs 230 g heart: 783x
+  vs 280 g heart: 643x
+  vs 340 g heart: 529x
+2 beats/min -> one beat every 30 s
+60-100 bpm -> one beat every 0.6-1.0 s; in 30 s your heart beats 30-50 times
+to-scale drawing: whale 33 m vs 1.7 m person -> ratio 19.4

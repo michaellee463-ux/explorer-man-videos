@@ -1,0 +1,10 @@
+[
+ {"key":"hook","say":"You, versus the biggest animal known to have ever lived."},
+ {"key":"size","say":"A blue whale can grow up to about thirty-three meters long, and weigh up to a hundred and fifty tonnes."},
+ {"key":"yourheart","say":"Your heart is about the size of your fist. Under half a kilo."},
+ {"key":"whaleheart","say":"A blue whale's heart? About a hundred and eighty kilograms. More than four hundred times heavier than yours."},
+ {"key":"tease","say":"But the wildest part is how slowly it beats."},
+ {"key":"dive","say":"On a deep dive, it can slow to just two beats a minute."},
+ {"key":"reveal","say":"In the time it beats once, your resting heart beats thirty to fifty times."},
+ {"key":"outro","say":"Follow for more."}
+]
