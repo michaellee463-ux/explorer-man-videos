@@ -1,0 +1,7 @@
+Starship V3 408 ft = 124.4 m
+Statue of Liberty 305 ft 1 in = 92.99 m ; Starship taller by 31.4 m
+Saturn V 363 ft = 110.6 m ; Starship taller by 13.7 m
+Starship 80.8 MN = 18.16 million lbf ; 33 x 551,156 lbf = 18.19 million lbf
+Saturn V 34.5 MN = 7.76 million lbf ; NASA: SLS 8.8M is 15% more than Saturn V -> 7.65 million lbf
+thrust ratio Starship/Saturn V = 2.32 (using 18.0M) to 2.38  -> 'more than twice' holds: True
+draw scale: Starship 124.4, Saturn V 110.6, Liberty 93.0 (m)

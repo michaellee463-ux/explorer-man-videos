@@ -1,0 +1,12 @@
+[
+ {"key":"hook","pause":0.55,"say":"This is the tallest, most powerful rocket ever built."},
+ {"key":"height","pause":0.35,"say":"Starship stands one hundred twenty-four meters tall."},
+ {"key":"liberty","pause":0.35,"say":"That's taller than the Statue of Liberty, torch and all... by more than thirty meters."},
+ {"key":"saturn","pause":0.4,"say":"It's even taller than the Saturn Five, the rocket that took astronauts to the Moon."},
+ {"key":"engines","pause":0.35,"say":"At liftoff, thirty-three engines fire together, with more than eighteen million pounds of thrust."},
+ {"key":"twice","pause":0.5,"say":"That's more than twice the thrust of the Saturn Five."},
+ {"key":"tease","pause":0.4,"say":"But here's the crazy part."},
+ {"key":"catch","pause":0.55,"say":"When the booster comes back to Earth, it doesn't land. The launch tower catches it... out of the air, with giant mechanical arms."},
+ {"key":"both","pause":0.5,"say":"And on flight fifteen, SpaceX plans to catch both stages of the rocket, for the very first time."},
+ {"key":"outro","pause":0,"say":"Follow for more."}
+]
