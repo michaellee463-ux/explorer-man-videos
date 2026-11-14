@@ -1,0 +1,72 @@
+[
+ {
+  "key": "hook",
+  "pause": 0.6,
+  "say": "What happens when a grain of sand hits Earth... at seventy-one kilometers per second?"
+ },
+ {
+  "key": "again",
+  "pause": 0.35,
+  "say": "This week, it's going to happen again and again."
+ },
+ {
+  "key": "speed",
+  "pause": 0.3,
+  "say": "Seventy-one kilometers... every second."
+ },
+ {
+  "key": "nyla",
+  "pause": 0.35,
+  "say": "That's New York to Los Angeles in under a minute."
+ },
+ {
+  "key": "moon",
+  "pause": 0.4,
+  "say": "At that speed, you could reach the Moon in about an hour and a half."
+ },
+ {
+  "key": "comet",
+  "pause": 0.35,
+  "say": "These grains are dust from a comet called Tempel Tuttle, which loops around the Sun every thirty-three years."
+ },
+ {
+  "key": "trail",
+  "pause": 0.4,
+  "say": "Every November, Earth plows right through its trail of debris. We call it the Leonid meteor shower."
+ },
+ {
+  "key": "energy",
+  "pause": 0.45,
+  "say": "And tiny doesn't mean weak. A Leonid the size of a pea, just half a gram, carries about twice the energy of a car speeding down the highway."
+ },
+ {
+  "key": "tease",
+  "pause": 0.4,
+  "say": "But that's not the crazy part."
+ },
+ {
+  "key": "storm",
+  "pause": 0.5,
+  "say": "In nineteen sixty-six, observers reported up to forty of them... every single second."
+ },
+ {
+  "key": "reveal",
+  "pause": 0.6,
+  "say": "So what happens when that grain of sand hits? It never reaches the ground. Around a hundred kilometers up, it slams into the air so hard... it vaporizes, in a streak of light."
+ },
+ {
+  "key": "star",
+  "pause": 0.5,
+  "say": "That's a shooting star."
+ },
+ {
+  "key": "watch",
+  "pause": 0.4,
+  "say": "The Leonids peak around November seventeenth. Look up after midnight, once the Moon has set."
+ },
+ {
+  "key": "loop",
+  "pause": 0,
+  "say": "Because most Leonids you'll see this week... are grains of sand, hitting Earth at seventy-one kilometers per second."
+ }
+]

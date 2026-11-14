@@ -1,0 +1,14 @@
+speed: 71.0 km/s = 255,600 km/h = 158,822 mph
+NY->LA at 71 km/s: 55.4 s ; at 69.7: 56.5 s ; at 72: 54.7 s  (all < 60 s)
+Earth->Moon at 69.7 km/s: 91.9 min = 1.53 h
+Earth->Moon at 71 km/s: 90.2 min = 1.50 h
+Earth->Moon at 72 km/s: 89.0 min = 1.48 h
+KE of 0.5 g at 69.7 km/s: 1.21 MJ
+KE of 0.5 g at 71 km/s: 1.26 MJ
+KE of 0.5 g at 72 km/s: 1.30 MJ
+car 1500 kg at 100 km/h (62 mph): 0.58 MJ ; pea/car ratio at 69.7 km/s = 2.10
+car 2000 kg at 105 km/h (65 mph): 0.85 MJ ; pea/car ratio at 69.7 km/s = 1.43
+car 2000 kg at 113 km/h (70 mph): 0.99 MJ ; pea/car ratio at 69.7 km/s = 1.23
+car 2500 kg at 113 km/h (70 mph): 1.23 MJ ; pea/car ratio at 69.7 km/s = 0.99
+1966: 40 per second = 2400 per minute = 144000 per hour
+Tempel-Tuttle period 33 yr -> 1966 + 33 = 1999

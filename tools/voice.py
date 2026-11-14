@@ -11,7 +11,7 @@ K = Kokoro(f"{MD}/kokoro-v1.0.onnx", f"{MD}/voices-v1.0.bin")
 LETTER = dict(A="ˈeɪ", B="bˈiː", C="sˈiː", D="dˈiː", E="ˈiː", F="ˈɛf", G="dʒˈiː", H="ˈeɪtʃ", I="ˈaɪ", J="dʒˈeɪ", K="kˈeɪ", L="ˈɛl", M="ˈɛm", N="ˈɛn", O="ˈoʊ", P="pˈiː", Q="kjˈuː", R="ˈɑːɹ", S="ˈɛs", T="tˈiː", U="jˈuː", V="vˈiː", W="dˈʌbəljuː", X="ˈɛks", Y="wˈaɪ", Z="zˈiː")
 # words after which a lone capital letter is a name, not the article "a"
 NAME_BEFORE = r"(group|type|vitamin|hepatitis|class|plan|grade|streptolysin|blood type|section|point|exhibit|letter|strain|lane|row|zone|phase|stage|level)"
-LEX = {"WHO": "dˈʌbəljuː ˈeɪtʃ ˈoʊ", "DNA": "dˈiː ˈɛn ˈeɪ", "RNA": "ˈɑːɹ ˈɛn ˈeɪ"}
+LEX = {"WHO": "dˈʌbəljuː ˈeɪtʃ ˈoʊ", "DNA": "dˈiː ˈɛn ˈeɪ", "RNA": "ˈɑːɹ ˈɛn ˈeɪ", "Tempel": "tˈɛmpəl"}
 
 def phonemes(text, lang="en-us"):
     marks = {}
