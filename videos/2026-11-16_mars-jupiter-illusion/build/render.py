@@ -91,7 +91,7 @@ def lightpulse(im, x, y, col, a):
     paste_c(im, glow(70, col, 1.4), x, y, a); paste_c(im, glow(22, (255, 255, 255), 1.2), x, y, a)
 
 # ---------------------------------------------------------------- side view geometry (distances to scale)
-EX, MX, JX, SY = 90, 90 + 900 * 195.0 / 786.9, 990, 1080
+EX, MX, JX, SY = 90, 90 + 800 * 195.0 / 786.9, 890, 1080
 def sideview(im, t, a, show_m=1.0, show_j=1.0):
     d = ImageDraw.Draw(im, 'RGBA')
     for x in range(EX + 40, JX - 50, 26):
@@ -105,7 +105,7 @@ def sideview(im, t, a, show_m=1.0, show_j=1.0):
     label(d, EX, SY + 88, 'EARTH', 38, CYAN, a)
     label(d, MX, SY + 88, 'MARS', 38, ORANGE, a * show_m)
     label(d, JX - 20, SY + 120, 'JUPITER', 38, GOLD, a * show_j)
-    text(d, (W / 2, 1880), 'distances to scale · planet sizes not', 30, GREY, POP_M, stroke=3, alpha=a * 0.9)
+    text(d, (W / 2, 720), 'distances to scale · planet sizes not', 30, GREY, POP_M, stroke=3, alpha=a * 0.9)
 
 def bar(d, x0, x1, y, col, a, h=10):
     if x1 > x0 and a > 0: d.rounded_rectangle((x0, y - h / 2, x1, y + h / 2), h // 2, fill=col + (int(255 * a),))
@@ -266,7 +266,7 @@ def frame(t):
             ptext(d, (W / 2, 470), 'THAN MARS', 100, WHITE, t, s0 + 1.1, sz_end + 0.2)
         else:
             # fill Jupiter's disk with Mars-sized dots (a real count would be ~8,800 by volume; the 2D fill is illustrative)
-            p = ease(ramp(t, sz_end, nx('size') - 0.6))
+            p = ease(ramp(t, sz_end, nx('size') - 1.6))
             rows = int((2 * RJ) / (2 * mr)); n_ = 0
             for i in range(rows + 1):
                 yv = 1060 - RJ + i * 2 * mr + mr
@@ -279,7 +279,7 @@ def frame(t):
             cnt = int(8800 * p)
             ptext(d, (W / 2, 300), f'≈ {cnt:,}', 170, ORANGE, t, sz_end, nx('size') + 0.1)
             ptext(d, (W / 2, 450), 'MARS FIT INSIDE', 100, WHITE, t, sz_end + 0.2, nx('size') + 0.1)
-            text(d, (W / 2, 1620), 'by volume', 44, GREY, POP_M, stroke=4, alpha=a)
+            text(d, (W / 2, 1450), 'by volume', 44, GREY, POP_M, stroke=4, alpha=a)
 
     # ============ BRIGHT: farther, still brighter
     a = xf(t, st('bright'), st('share') + 0.1, 0.2, 0.2)

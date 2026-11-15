@@ -10,7 +10,7 @@ pad=np.zeros(L)
 for f,amp in ((55,1),(82.4,0.6),(110,0.45),(164.8,0.25)):
     pad+=amp*np.sin(2*np.pi*f*t+0.3*np.sin(2*np.pi*0.07*t))
 pad*=0.6+0.4*np.sin(2*np.pi*t/8)**2
-pad=pad/np.abs(pad).max()*0.035*np.clip(t/0.4,0,1)*np.clip((t[-1]-t)/0.6,0,1)
+pad=pad/np.abs(pad).max()*0.025*np.clip(t/0.4,0,1)*np.clip((t[-1]-t)/0.6,0,1)
 fx=np.zeros(L)
 def whoosh(t0,dur=0.5,amp=0.08):
     n=int(dur*SR); i=int(max(0,t0-dur*0.6)*SR); x=rng.standard_normal(n); out=np.zeros(n); seg=n//8
@@ -29,8 +29,11 @@ bpm=100; beat=60/bpm; kick=np.zeros(L); tb=R.st('marsd')
 while tb<R.TOTAL-0.5:
     n=int(0.35*SR); i=int(tb*SR); tt=np.arange(n)/SR
     k_=np.sin(2*np.pi*(55*tt+60*tt*np.exp(-tt*25)))*np.exp(-tt*9)
-    a_=0.08 if tb<R.st('reveal') else 0.12
+    a_=0.045 if tb<R.st('reveal') else 0.07
     e=min(L,i+n); kick[i:e]+=(k_*a_)[:e-i]; tb+=beat
-mix=v+pad+fx+kick
+# duck the music/effects bed under the voice
+env=np.abs(v); k=int(0.15*SR); env=np.convolve(env,np.ones(k)/k,'same'); env=env/env.max()
+duck=1-0.55*np.clip(env*6,0,1)
+mix=v+(pad+kick)*duck+fx*(1-0.35*np.clip(env*6,0,1))
 sf.write('mix.wav',np.clip(mix/max(1,np.abs(mix).max()/0.98),-1,1).astype(np.float32),SR)
 print('ok',R.TOTAL)
