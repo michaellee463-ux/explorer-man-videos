@@ -1,0 +1,82 @@
+[
+ {
+  "key": "hook",
+  "pause": 0.6,
+  "say": "Every human on Earth... could fit inside one sugar cube."
+ },
+ {
+  "key": "setup",
+  "pause": 0.35,
+  "say": "All eight billion of us. Every person alive. Sounds impossible, right?"
+ },
+ {
+  "key": "atoms",
+  "pause": 0.35,
+  "say": "But you're made of atoms. And almost all of an atom is empty space, with tiny electrons buzzing around."
+ },
+ {
+  "key": "stadium",
+  "pause": 0.35,
+  "say": "If an atom were the size of a stadium, its nucleus would be a pea in the middle."
+ },
+ {
+  "key": "mass",
+  "pause": 0.4,
+  "say": "Yet that tiny pea holds more than ninety-nine point nine percent of the atom's mass."
+ },
+ {
+  "key": "squeeze",
+  "pause": 0.3,
+  "say": "So squeeze out all that space, and pack your nuclei tight together."
+ },
+ {
+  "key": "speck",
+  "pause": 0.4,
+  "say": "You'd shrink to a speck thinner than a human hair."
+ },
+ {
+  "key": "tease",
+  "pause": 0.3,
+  "say": "But that's not the crazy part."
+ },
+ {
+  "key": "all",
+  "pause": 0.25,
+  "say": "Do it to all eight billion people..."
+ },
+ {
+  "key": "reveal",
+  "pause": 0.6,
+  "say": "and every one of us fits in a cube just over a centimeter wide. A sugar cube."
+ },
+ {
+  "key": "weight",
+  "pause": 0.35,
+  "say": "And it would still weigh about four hundred million tonnes. More than a thousand Empire State Buildings."
+ },
+ {
+  "key": "lift",
+  "pause": 0.4,
+  "say": "You couldn't even lift it."
+ },
+ {
+  "key": "neutron",
+  "pause": 0.4,
+  "say": "Nature really does this. In a neutron star, a whole Sun's worth of matter is crushed into a ball the size of a city."
+ },
+ {
+  "key": "ncube",
+  "pause": 0.45,
+  "say": "Just one sugar cube of it would weigh about a billion tonnes."
+ },
+ {
+  "key": "share",
+  "pause": 0.35,
+  "say": "Send this to someone who thinks they're solid."
+ },
+ {
+  "key": "comment",
+  "pause": 0,
+  "say": "So what blows your mind more... the size, or the weight?"
+ }
+]

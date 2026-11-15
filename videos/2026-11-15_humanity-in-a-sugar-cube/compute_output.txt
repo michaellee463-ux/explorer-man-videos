@@ -1,0 +1,18 @@
+total human mass A (Walpole-scaled): 426 Mt ; B (Bar-On carbon): 354 Mt
+  m=354 Mt rho=2.0e+17: volume 1.77 cm^3, cube side 1.21 cm
+  m=354 Mt rho=2.3e+17: volume 1.54 cm^3, cube side 1.15 cm
+  m=354 Mt rho=2.5e+17: volume 1.42 cm^3, cube side 1.12 cm
+  m=426 Mt rho=2.0e+17: volume 2.13 cm^3, cube side 1.29 cm
+  m=426 Mt rho=2.3e+17: volume 1.85 cm^3, cube side 1.23 cm
+  m=426 Mt rho=2.5e+17: volume 1.71 cm^3, cube side 1.19 cm
+ESB mass 331123 t; humanity = 1070 to 1288 ESBs
+one 62 kg adult at rho=2.0e+17: sphere diameter 8.4 um (human hair ~17-180 um)
+one 62 kg adult at rho=2.5e+17: sphere diameter 7.8 um (human hair ~17-180 um)
+H: atom/nucleus width ratio 62,976
+C: atom/nucleus width ratio 25,926
+O: atom/nucleus width ratio 22,222
+stadium 100 m / pea 5 mm = 20,000
+stadium 100 m / pea 9 mm = 11,111
+stadium 200 m / pea 5 mm = 40,000
+stadium 200 m / pea 9 mm = 22,222
+H-1 nucleus mass share 99.946%
