@@ -1,0 +1,9 @@
+part_*.mp4
+video.mp4
+mix.wav
+still_*.jpg
+f0.jpg
+f1.jpg
+*.log
+parts.txt
+__pycache__/
