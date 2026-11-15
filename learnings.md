@@ -16,6 +16,7 @@ Updated every run from vidIQ (YouTube) and Metricool (TikTok) data. Judge only v
 
 ## Log
 
+- 2026-11-15 (evening, made on request) — Mars–Jupiter conjunction Short. Test: Michael's own recorded voice instead of Puck + timely sky-event statement hook. Result: pending (judge from Nov 18).
 - 2026-11-15 — Baseline seeded (vidIQ, Oct 18–Nov 15). Today's Short: "humanity in a sugar cube" (You vs #3). Test: bold impossible-sounding statement hook in frame 1 (no question) + explicit "send this to someone" share line. Result: pending (judge from Nov 18).
 - 2026-11-14 — Leonids sand-grain Short (cliffhanger). Result: pending (judge from Nov 17).
 - 2026-11-13 — Starship size Short; Doomsday Short (by hand). Result: pending.
