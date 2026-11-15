@@ -1,0 +1,82 @@
+[
+ {
+  "key": "hook",
+  "pause": 0.55,
+  "say": "Right now, two planets look like they're almost touching."
+ },
+ {
+  "key": "where",
+  "pause": 0.3,
+  "say": "Go outside before sunrise this week, and look high in the south."
+ },
+ {
+  "key": "which",
+  "pause": 0.3,
+  "say": "That bright one up high is Jupiter. The orange dot right next to it... is Mars."
+ },
+ {
+  "key": "pinky",
+  "pause": 0.4,
+  "say": "Right now, they're barely more than a pinky's width apart."
+ },
+ {
+  "key": "illusion",
+  "pause": 0.45,
+  "say": "But it's an illusion. They're not close at all."
+ },
+ {
+  "key": "marsd",
+  "pause": 0.3,
+  "say": "Mars is about a hundred and twenty million miles away."
+ },
+ {
+  "key": "jupd",
+  "pause": 0.3,
+  "say": "Jupiter is four times farther. Almost five hundred million miles."
+ },
+ {
+  "key": "gap",
+  "pause": 0.4,
+  "say": "The space between them? Over three hundred and sixty million miles. Nearly four times the distance from Earth to the Sun."
+ },
+ {
+  "key": "tease",
+  "pause": 0.3,
+  "say": "But here's the crazy part."
+ },
+ {
+  "key": "light",
+  "pause": 0.3,
+  "say": "The light you'll see from Mars left it about eleven minutes ago."
+ },
+ {
+  "key": "light2",
+  "pause": 0.35,
+  "say": "Jupiter's light left about forty-four minutes ago."
+ },
+ {
+  "key": "reveal",
+  "pause": 0.55,
+  "say": "So you're looking at two different moments in time... side by side."
+ },
+ {
+  "key": "size",
+  "pause": 0.35,
+  "say": "And Jupiter is huge. It's twenty-one times wider than Mars... almost nine thousand Mars-sized planets could fit inside it."
+ },
+ {
+  "key": "bright",
+  "pause": 0.4,
+  "say": "Even from four times farther away, it shines about twelve times brighter than Mars."
+ },
+ {
+  "key": "share",
+  "pause": 0.35,
+  "say": "Send this to someone who's up before sunrise."
+ },
+ {
+  "key": "comment",
+  "pause": 0.0,
+  "say": "So... are you going out to look? Yes, or no?"
+ }
+]

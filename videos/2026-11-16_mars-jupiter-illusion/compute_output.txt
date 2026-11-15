@@ -1,0 +1,8 @@
+Mars distance  195 M km = 121 M mi
+Jup distance   787 M km = 489 M mi
+Jup/Mars distance ratio 4.04
+gap 592 M km = 368 M mi = 3.96 AU
+light time Mars 10.8 min, Jupiter 43.7 min, gap 32.9 min
+diameter ratio Jup/Mars 21.1
+volume ratio Jup/Mars 8774 (fact-sheet volumes)  8775 (mean radii)
+Jupiter brighter by factor 13.2
