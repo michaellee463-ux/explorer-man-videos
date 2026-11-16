@@ -1,0 +1,11 @@
+Earth mass = 5.972e+21 tonnes (= 5.97 sextillion tonnes)
+Earth Schwarzschild radius = 8.87 mm, diameter = 1.77 cm
+Sun Schwarzschild radius = 2.95 km, diameter = 5.91 km
+Walk across Sun-BH at 5 km/h = 1.18 h
+Sun real diameter 1,392,700 km -> shrink factor 235,784x
+Sgr A* (4.297e6 Msun) Rs = 12.69 million km = 0.085 AU; Mercury orbit radius 57.9 million km; ratio 0.219
+M87* (6.5e9 Msun) Rs = 19.20 billion km = 128.3 AU; diameter = 38.4 billion km
+M87* radius / Neptune orbit radius (30.07 AU) = 4.27; Pluto aphelion 49.3 AU ratio 2.60
+Light time across M87* diameter = 35.6 h = 1.48 days
+M87* mass range 5.8-7.2e9: Rs 115-142 AU -> ratio vs Neptune 3.81-4.73
+Escape speed: Earth 11.19 km/s vs light 299,792 km/s (26,801x)

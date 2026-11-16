@@ -1,0 +1,15 @@
+[
+ {"key":"hook","pause":0.55,"say":"Crush the whole Earth down to the size of a marble... and it becomes a black hole."},
+ {"key":"mass","pause":0.35,"say":"Every ocean, every mountain, all six sextillion tonnes of it... less than two centimeters wide."},
+ {"key":"escape","pause":0.3,"say":"Today, a rocket needs about eleven kilometers per second to escape Earth."},
+ {"key":"light","pause":0.4,"say":"From the edge of the marble, not even light gets out. And light moves three hundred thousand kilometers per second."},
+ {"key":"weird","pause":0.3,"say":"Now the weird part. The Moon wouldn't notice."},
+ {"key":"moon","pause":0.35,"say":"Same mass, same pull. It would keep circling, every twenty-seven days, just like before."},
+ {"key":"share","pause":0.4,"say":"Most people think black holes suck everything in. They don't. From far away, a black hole pulls like anything else with the same mass."},
+ {"key":"sun","pause":0.35,"say":"Crush the Sun, and it shrinks to about six kilometers wide. You could walk across it in about an hour."},
+ {"key":"tease","pause":0.3,"say":"But real black holes get way, way bigger."},
+ {"key":"sgr","pause":0.35,"say":"The one at the center of our galaxy weighs about four million Suns. Put it where the Sun is, and it would fit inside Mercury's orbit."},
+ {"key":"m87","pause":0.3,"say":"Then there's M eighty-seven's black hole. Six and a half billion Suns."},
+ {"key":"reveal","pause":0.55,"say":"Put that one where the Sun is... and it swallows every planet, out to about four times Neptune's distance. Light would need a day and a half just to cross it."},
+ {"key":"comment","pause":0.3,"say":"So which would you rather fall into... the marble, or the monster?"}
+]
