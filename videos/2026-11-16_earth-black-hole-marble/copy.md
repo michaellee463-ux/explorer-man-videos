@@ -22,7 +22,7 @@ Sources: NASA Chandra / STScI, Event Horizon Telescope (via Physics World, Scien
 **TikTok caption:**
 What If Earth Became a Black Hole? 🌍🕳️
 
-Crush Earth to the size of a marble and it becomes a black hole, but the Moon would keep orbiting just like before. And the black hole in galaxy M87 would swallow every planet in our solar system.
+Crush Earth to the size of a marble and it becomes a black hole, but the Moon would keep orbiting just like before. Put the black hole in galaxy M87 where our Sun is, and it would swallow every planet.
 
 Which would you rather fall into: the marble or the monster?
 
