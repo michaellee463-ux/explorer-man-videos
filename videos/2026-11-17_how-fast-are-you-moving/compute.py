@@ -1,0 +1,21 @@
+# Derived figures for "How fast are you moving right now?" (all from sourced inputs)
+KMH_PER_KMS = 3600; MI = 1.609344
+rot = 1670          # km/h at equator (Space.com; Britannica 1,674; Science Focus 1,670)
+jet = 900           # km/h typical airliner cruise (~Mach 0.85; EarthSky says ~800 kph)
+orb = 107_000       # km/h (Britannica 107,225; Space.com 107,000)
+gal_kms = 230       # km/s (Wikipedia galactic year, Live Science)
+cmb_kms = 369.82    # km/s Planck 2018
+moon = 384_400      # km mean distance (NASA)
+earth_d = 12_742    # km mean diameter (NASA)
+gy = (225e6, 250e6) # galactic year range (Wikipedia 225 My; IFLScience 225-250; Live Science 220-230)
+dino = (230e6, 66e6)# first dinosaurs / non-avian extinction (AMNH)
+print("rotation mph", rot/MI)
+print("rotation / jet 900", rot/jet, " / jet 800", rot/800)
+print("orbit km/s", orb/3600, " mph", orb/MI)
+print("Moon at orbital speed (h)", moon/orb)
+gal = gal_kms*KMH_PER_KMS; print("galactic km/h", gal, " mph", gal/MI)
+cmb = cmb_kms*KMH_PER_KMS; print("CMB km/h", cmb, " mph", cmb/MI)
+print("dinosaur span (My)", (dino[0]-dino[1])/1e6, " < shortest lap 220-225 My:", (dino[0]-dino[1]) < 220e6)
+for T in (61, 65, 70, 75):
+    print(f"distance vs CMB in {T}s: {cmb_kms*T:,.0f} km = {cmb_kms*T/earth_d:.2f} Earth widths")
+print("CMB 1.3 million check:", round(cmb/1e6,2))

@@ -1,0 +1,15 @@
+[
+ {"key":"hook","pause":0.55,"say":"How fast are you moving right now? Not walking. Sitting perfectly still."},
+ {"key":"spin","pause":0.3,"say":"First, Earth spins. At the equator, the ground moves at about sixteen hundred and seventy kilometers per hour."},
+ {"key":"jet","pause":0.35,"say":"That's almost twice as fast as a jet airliner... and you don't feel a thing."},
+ {"key":"orbit","pause":0.3,"say":"But Earth is also flying around the Sun, at about a hundred and seven thousand kilometers per hour."},
+ {"key":"moon","pause":0.35,"say":"At that speed, you'd reach the Moon in under four hours."},
+ {"key":"tease","pause":0.35,"say":"And that's not even close to the real answer."},
+ {"key":"galaxy","pause":0.3,"say":"The Sun drags all of us around the center of the Milky Way, at about eight hundred and twenty-eight thousand kilometers per hour."},
+ {"key":"lap","pause":0.35,"say":"Even so, one lap takes over two hundred million years. The dinosaurs came and went in less than one lap."},
+ {"key":"why","pause":0.35,"say":"So why don't you feel any of it? Because the speed is steady. Like a smooth flight with your eyes closed."},
+ {"key":"setup","pause":0.2,"say":"These motions point in different directions, so they don't simply add up. But measure us against the afterglow of the Big Bang, the light that fills the whole universe..."},
+ {"key":"reveal","pause":0.6,"say":"and you're moving at about one point three million kilometers per hour."},
+ {"key":"share","pause":0.35,"say":"Since this video started, you've traveled more than twenty thousand kilometers. Send this to someone who thinks they're sitting still."},
+ {"key":"comment","pause":0.3,"say":"So, what was your guess? Too low... or way too low?"}
+]

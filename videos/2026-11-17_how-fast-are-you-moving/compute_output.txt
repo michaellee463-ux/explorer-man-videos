@@ -1,0 +1,12 @@
+rotation mph 1037.6898910363477
+rotation / jet 900 1.8555555555555556  / jet 800 2.0875
+orbit km/s 29.72222222222222  mph 66486.71756939474
+Moon at orbital speed (h) 3.5925233644859813
+galactic km/h 828000  mph 514495.3471725125
+CMB km/h 1331352.0  mph 827263.779527559
+dinosaur span (My) 164.0  < shortest lap 220-225 My: True
+distance vs CMB in 61s: 22,559 km = 1.77 Earth widths
+distance vs CMB in 65s: 24,038 km = 1.89 Earth widths
+distance vs CMB in 70s: 25,887 km = 2.03 Earth widths
+distance vs CMB in 75s: 27,736 km = 2.18 Earth widths
+CMB 1.3 million check: 1.33
