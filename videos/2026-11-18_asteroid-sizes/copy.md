@@ -1,0 +1,40 @@
+# YouTube title
+How Big Does an Asteroid Have to Be to End the World? ☄️ Every Size Compared
+
+# YouTube description
+On Friday, April 13, 2029, asteroid Apophis, about 340 meters wide (roughly the height of the Eiffel Tower), will pass about 32,000 km above Earth's surface: closer than satellites in geosynchronous orbit. NASA says it will miss, with no risk of impact for at least 100 years. But how big does a space rock have to be to really hurt us? We climb the ladder one size at a time: the 20-meter Chelyabinsk fireball (2013, about 500 kilotons, about 1,500 people hurt, mostly by flying glass), the 50–100 m Tunguska blast (1908, about 80 million trees flattened), the iron asteroid that dug Arizona's 1.2 km Meteor Crater, Apophis, the 1 km "global" threshold, and the 10–15 km dinosaur killer. Then: NASA's DART mission, which shortened an asteroid's orbit by 32 minutes.
+
+Chapters:
+0:00 Closer than our satellites
+0:22 Size 1: A grain of sand
+0:34 Size 2: 20 meters (Chelyabinsk)
+1:07 Size 3: 50 to 100 meters (Tunguska)
+1:40 What if it's made of iron?
+2:04 Size 4: 340 meters (Apophis)
+2:37 Size 5: 1 kilometer (global)
+2:59 Size 6: 10 kilometers (the dinosaur killer)
+3:28 Can we stop one?
+3:48 The whole ladder
+
+Which size scares you the most: 20 m, 50 m, 340 m, 1 km or 10 km? 👇
+
+Sources: NASA (Apophis facts, Planetary Defense, NEO Observations Program, DART), NASA JPL, NASA Earth Observatory, ESA, The Planetary Society, Britannica, Natural History Museum London, NSF, Live Science, Space.com, National Geographic. Size estimates for Tunguska, Meteor Crater's impactor and Chicxulub vary between sources, so ranges are shown. Orbit diagram distances to scale (asteroid enlarged); size comparisons to scale unless labeled.
+
+#asteroid #apophis #space #science #astronomy #nasa #dinosaurs #planetarydefense #sciencefacts #explorerman
+
+# Hashtags / tags
+asteroid, apophis, space, science, astronomy, nasa, dinosaurs, planetary defense, science facts, explorer man
+
+# Pinned comment
+Which size scares you the most: 20 m, 50 m, 340 m, 1 km or 10 km? 👇
+
+# TikTok caption
+How Big Does an Asteroid Have to Be to End the World? ☄️ Every Size Compared
+
+On April 13, 2029, asteroid Apophis (about the height of the Eiffel Tower) passes closer than our satellites, and NASA says it will miss. From the 20 m Chelyabinsk fireball to the 10–15 km dinosaur killer, here's what each size can do.
+
+Which size scares you the most? 👇
+
+▶ More mind-blowing science on YouTube: search "Explorer Man" 🔭
+
+#asteroid #apophis #space #astronomy #nasa #dinosaurs #sciencetok #learnontiktok #explorerman

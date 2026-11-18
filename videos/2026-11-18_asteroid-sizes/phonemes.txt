@@ -1,0 +1,98 @@
+[hook.0] On Friday, April thirteenth, twenty twenty-nine, an asteroid as tall as the Eiffel Tower will fly past Earth... closer than some of our satellites.
+    ˌɔn fɹˈaɪdeɪ, ˈeɪpɹəl θˈɜːtiːnθ, twˈɛnti twˈɛntinˈaɪn, ɐn ˈæstɚɹˌɔɪd æz tˈɔːl æz ðɪ ˈaɪfəl tˈaʊɚ wɪl flˈaɪ pˈæst ˈɜːθ... klˈoʊsɚ ðɐn sˌʌm ʌv ˌaʊɚ sˈæɾəlˌaɪts.
+[hook.1] Don't panic. NASA says it will miss.
+    dˈoʊnt pˈænɪk. nˈæsɐ sˈɛz ɪt wɪl mˈɪs.
+[hook.2] But it raises a question. How big does a space rock have to be... to end the world?
+    bˌʌt ɪt ɹˈeɪzᵻz ɐ kwˈɛstʃən. hˌaʊ bˈɪɡ dˈʌz ɐ spˈeɪs ɹˈɑːk hæv tə bˈiː... tʊ ˈɛnd ðə wˈɜːld?
+[hook.3] Let's climb the ladder, one size at a time. From a grain of sand, to the dinosaur killer.
+    lˈɛts klˈaɪm ðə lˈædɚ, wˈʌn sˈaɪz æɾə tˈaɪm. fɹʌm ɐ ɡɹˈeɪn ʌv sˈænd, tə ðə dˈaɪnəsˌɔːɹ kˈɪlɚ.
+[sand.0] Most shooting stars start out as specks of dust, or grains of sand.
+    mˈoʊst ʃˈuːɾɪŋ stˈɑːɹz stˈɑːɹt ˈaʊt æz spˈɛks ʌv dˈʌst, ɔːɹ ɡɹˈeɪnz ʌv sˈænd.
+[sand.1] They hit the air so fast that they burn up, high above your head, in a streak of light.
+    ðeɪ hˈɪt ðɪ ˈɛɹ sˌoʊ fˈæst ðæt ðeɪ bˈɜːn ˈʌp, hˈaɪ əbˌʌv jʊɹ hˈɛd, ɪn ɐ stɹˈiːk ʌv lˈaɪt.
+[sand.2] Completely harmless. So let's make it bigger.
+    kəmplˈiːtli hˈɑːɹmləs. sˌoʊ lˈɛts mˌeɪk ɪt bˈɪɡɚ.
+[chel.0] About twenty meters wide.
+    ɐbˌaʊt twˈɛnti mˈiːɾɚz wˈaɪd.
+[chel.1] On February fifteenth, twenty thirteen, a rock that size hit the sky over Chelyabinsk, Russia, at about nineteen kilometers per second.
+    ˌɔn fˈɛbɹuːˌɛɹi fˈɪftiːnθ, twˈɛnti θˈɜːtiːn, ɐ ɹˈɑːk ðæt sˈaɪz hˈɪt ðə skˈaɪ ˌoʊvɚ tʃɛljˈɑːbɪnsk, ɹˈʌʃə, æɾ ɐbˌaʊt nˈaɪntiːn kɪlˈɑːmɪɾɚz pɜː sˈɛkənd.
+[chel.2] No telescope saw it coming.
+    nˈoʊ tˈɛlᵻskˌoʊp sˈɔː ɪt kˈʌmɪŋ.
+[chel.3] It exploded about thirty kilometers up, with a flash that was briefly brighter than the Sun.
+    ɪɾ ɛksplˈoʊdᵻd ɐbˌaʊt θˈɜːɾi kɪlˈɑːmɪɾɚz ˈʌp, wɪð ɐ flˈæʃ ðæt wʌz bɹˈiːfli bɹˈaɪɾɚ ðɐn ðə sˈʌn.
+[chel.4] The blast released about five hundred kilotons of energy. Around thirty times the Hiroshima bomb.
+    ðə blˈæst ɹᵻlˈiːst ɐbˌaʊt fˈaɪv hˈʌndɹɪd kˈɪlətənz ʌv ˈɛnɚdʒi. ɚɹˈaʊnd θˈɜːɾi tˈaɪmz ðə hˌɪɹəʃˈiːmə bˈɑːm.
+[chel.5] Then the shock wave reached the ground. It shattered windows across the city, and about fifteen hundred people were hurt, mostly by flying glass.
+    ðˈɛn ðə ʃˈɑːk wˈeɪv ɹˈiːtʃt ðə ɡɹˈaʊnd. ɪt ʃˈæɾɚd wˈɪndoʊz əkɹˌɑːs ðə sˈɪɾi, ænd ɐbˌaʊt fˈɪftiːn hˈʌndɹɪd pˈiːpəl wɜː hˈɜːt, mˈoʊstli baɪ flˈaɪɪŋ ɡlˈæs.
+[chel.6] And that was a small one.
+    ænd ðæt wʌzɐ smˈɔːl wˌʌn.
+[tung.0] Make it a few times wider. Somewhere around fifty to a hundred meters.
+    mˌeɪk ɪɾ ɐ fjˈuː tˈaɪmz wˈaɪdɚ. sˈʌmwɛɹ ɚɹˈaʊnd fˈɪfti tʊ ɐ hˈʌndɹɪd mˈiːɾɚz.
+[tung.1] On June thirtieth, nineteen oh eight, something about that size exploded over Tunguska, in Siberia, around five to ten kilometers up.
+    ˌɔn dʒˈuːn θˈɜːɾiəθ, nˈaɪntiːn ˈoʊ ˈeɪt, sˈʌmθɪŋ ɐbˌaʊt ðæt sˈaɪz ɛksplˈoʊdᵻd ˌoʊvɚ tʊŋɡˈuːskə, ɪn saɪbˈiəɹɪə, ɚɹˈaʊnd fˈaɪv tə tˈɛn kɪlˈɑːmɪɾɚz ˈʌp.
+[tung.2] The blast flattened about eighty million trees, across roughly two thousand square kilometers of forest.
+    ðə blˈæst flˈæʔnd ɐbˌaʊt ˈeɪɾi mˈɪliən tɹˈiːz, əkɹˌɑːs ɹˈʌfli tˈuː θˈaʊzənd skwˈɛɹ kɪlˈɑːmɪɾɚz ʌv fˈɔːɹɪst.
+[tung.3] Up to fifteen megatons. As much as a thousand times the Hiroshima bomb.
+    ˌʌp tə fˈɪftiːn mˈɛɡətənz. æz mˈʌtʃ æz ɐ θˈaʊzənd tˈaɪmz ðə hˌɪɹəʃˈiːmə bˈɑːm.
+[tung.4] And here's the strange part. No one has ever found a clear crater.
+    ænd hˈɪɹz ðə stɹˈeɪndʒ pˈɑːɹt. nˈoʊwˈʌn hɐz ˈɛvɚ fˈaʊnd ɐ klˈɪɹ kɹˈeɪɾɚ.
+[tung.5] A rocky asteroid that size usually blows apart in the air. But if it's made of iron...
+    ɐ ɹˈɑːki ˈæstɚɹˌɔɪd ðæt sˈaɪz jˈuːʒuːəli blˈoʊz ɐpˈɑːɹt ɪnðɪ ˈɛɹ. bˌʌt ɪf ɪts mˌeɪd ʌv ˈaɪɚn...
+[crater.0] About fifty thousand years ago, an iron asteroid, probably around fifty meters across, made it all the way down, in what's now Arizona.
+    ɐbˌaʊt fˈɪfti θˈaʊzənd jˈɪɹz ɐɡˈoʊ, ɐn ˈaɪɚn ˈæstɚɹˌɔɪd, pɹˈɑːbəbli ɚɹˈaʊnd fˈɪfti mˈiːɾɚz əkɹˈɑːs, mˌeɪd ɪɾ ˈɔːl ðə wˈeɪ dˈaʊn, ɪn wʌts nˈaʊ ˌæɹɪzˈoʊnə.
+[crater.1] It left Meteor Crater. One point two kilometers wide. About a hundred and eighty meters deep.
+    ɪt lˈɛft mˈiːɾɪɚ kɹˈeɪɾɚ. wˈʌn pˈɔɪnt tˈuː kɪlˈɑːmɪɾɚz wˈaɪd. ɐbˌaʊt ɐ hˈʌndɹɪd ænd ˈeɪɾi mˈiːɾɚz dˈiːp.
+[crater.2] That's almost eleven football fields from one rim to the other... from a rock you could park on a football field.
+    ðæts ˈɔːlmoʊst ᵻlˈɛvən fˈʊtbɔːl fˈiːldz fɹʌm wˈʌn ɹˈɪm tə ðɪ ˈʌðɚ... fɹʌm ɐ ɹˈɑːk juː kʊd pˈɑːɹk ˌɔn ɐ fˈʊtbɔːl fˈiːld.
+[crater.3] But that's still not the scariest size.
+    bˌʌt ðæts stˈɪl nˌɑːt ðə skˈɛɹiɪst sˈaɪz.
+[apophis.0] Now, back to Apophis. It's about three hundred and forty meters wide. Roughly the height of the Eiffel Tower.
+    nˈaʊ, bˈæk tə əpˈɑːfɪs. ɪts ɐbˌaʊt θɹˈiː hˈʌndɹɪd ænd fˈɔːɹɾi mˈiːɾɚz wˈaɪd. ɹˈʌfli ðə hˈaɪt ʌvðɪ ˈaɪfəl tˈaʊɚ.
+[apophis.1] On April thirteenth, twenty twenty-nine, it will pass about thirty-two thousand kilometers above Earth's surface.
+    ˌɔn ˈeɪpɹəl θˈɜːtiːnθ, twˈɛnti twˈɛntinˈaɪn, ɪt wɪl pˈæs ɐbˌaʊt θˈɜːɾitˈuː θˈaʊzənd kɪlˈɑːmɪɾɚz əbˌʌv ˈɜːθz sˈɜːfɪs.
+[apophis.2] That's closer than satellites in geosynchronous orbit, about thirty-six thousand kilometers up.
+    ðæts klˈoʊsɚ ðɐn sˈæɾəlˌaɪts ɪn dʒˌiːoʊsˈɪŋkɹənəs ˈɔːɹbɪt, ɐbˌaʊt θˈɜːɾisˈɪks θˈaʊzənd kɪlˈɑːmɪɾɚz ˈʌp.
+[apophis.3] It will be bright enough to see without a telescope, from places like Europe and Africa.
+    ɪt wɪl biː bɹˈaɪt ɪnˈʌf tə sˈiː wɪðˌaʊt ɐ tˈɛlᵻskˌoʊp, fɹʌm plˈeɪsᵻz lˈaɪk jˈʊɹɹəp ænd ˈæfɹɪkə.
+[apophis.4] An asteroid this big passes this close only about once every few thousand years.
+    ɐn ˈæstɚɹˌɔɪd ðɪs bˈɪɡ pˈæsᵻz ðɪs klˈoʊs ˈoʊnli ɐbˌaʊt wˈʌns ˈɛvɹi fjˈuː θˈaʊzənd jˈɪɹz.
+[apophis.5] And NASA says there's no risk of it hitting Earth for at least a hundred years.
+    ænd nˈæsɐ sˈɛz ðɛɹz nˈoʊ ɹˈɪsk ʌv ɪt hˈɪɾɪŋ ˈɜːθ fɔːɹ æt lˈiːst ɐ hˈʌndɹɪd jˈɪɹz.
+[global.0] Keep going. Around one kilometer wide, the damage stops being local.
+    kˈiːp ɡˈoʊɪŋ. ɚɹˈaʊnd wˈʌn kɪlˈɑːmɪɾɚ wˈaɪd, ðə dˈæmɪdʒ stˈɑːps bˌiːɪŋ lˈoʊkəl.
+[global.1] NASA says an asteroid that big could have global effects if it hit.
+    nˈæsɐ sˈɛz ɐn ˈæstɚɹˌɔɪd ðæt bˈɪɡ kˌʊdɐv ɡlˈoʊbəl ɪfˈɛkts ɪf ɪt hˈɪt.
+[global.2] The good news? Astronomers think they've already found more than ninety percent of the near-Earth asteroids that size.
+    ðə ɡˈʊd nˈuːz? ɐstɹˈɑːnəmɚz θˈɪŋk ðeɪv ɔːlɹˌɛdi fˈaʊnd mˈɔːɹ ðɐn nˈaɪnti pɚsˈɛnt ʌvðə nˌɪɹˈɜːθ ˈæstɚɹˌɔɪdz ðæt sˈaɪz.
+[global.3] And none of the known asteroids bigger than about a hundred and forty meters has a significant chance of hitting us in the next hundred years.
+    ænd nˈʌn ʌvðə nˈoʊn ˈæstɚɹˌɔɪdz bˈɪɡɚ ðɐn ɐbˌaʊt ɐ hˈʌndɹɪd ænd fˈɔːɹɾi mˈiːɾɚz hɐz ɐ sɪɡnˈɪfɪkənt tʃˈæns ʌv hˈɪɾɪŋ ˌʌs ɪnðə nˈɛkst hˈʌndɹɪd jˈɪɹz.
+[chix.0] And then... there's the big one.
+    ænd ðˈɛn... ðɛɹz ðə bˈɪɡ wˌʌn.
+[chix.1] About sixty-six million years ago, an asteroid roughly ten to fifteen kilometers wide slammed into what's now Mexico.
+    ɐbˌaʊt sˈɪkstisˈɪks mˈɪliən jˈɪɹz ɐɡˈoʊ, ɐn ˈæstɚɹˌɔɪd ɹˈʌfli tˈɛn tə fˈɪftiːn kɪlˈɑːmɪɾɚz wˈaɪd slˈæmd ˌɪntʊ wʌts nˈaʊ mˈɛksɪkˌoʊ.
+[chix.2] Stand it next to Mount Everest, and it's taller than the mountain.
+    stˈænd ɪt nˈɛkst tə mˈaʊnt ˈɛvɚɹɪst, ænd ɪts tˈɔːlɚ ðɐn ðə mˈaʊntɪn.
+[chix.3] It left a crater about a hundred and fifty to a hundred and eighty kilometers wide.
+    ɪt lˈɛft ɐ kɹˈeɪɾɚɹ ɐbˌaʊt ɐ hˈʌndɹɪd ænd fˈɪfti tʊ ɐ hˈʌndɹɪd ænd ˈeɪɾi kɪlˈɑːmɪɾɚz wˈaɪd.
+[chix.4] It released the energy of billions of Hiroshima bombs.
+    ɪt ɹᵻlˈiːst ðɪ ˈɛnɚdʒi ʌv bˈɪliənz ʌv hˌɪɹəʃˈiːmə bˈɑːmz.
+[chix.5] And about three out of every four species on Earth disappeared. Including the dinosaurs... except the ones that became birds.
+    ænd ɐbˌaʊt θɹˈiː ˌaʊɾəv ˈɛvɹi fˈɔːɹ spˈiːsiːz ˌɔn ˈɜːθ dˌɪsɐpˈɪɹd. ɪŋklˈuːdɪŋ ðə dˈaɪnəsˌɔːɹz... ɛksˈɛpt ðə wˈʌnz ðæt bɪkˌeɪm bˈɜːdz.
+[dart.0] So, could we stop one?
+    sˈoʊ, kʊd wiː stˈɑːp wˌʌn?
+[dart.1] In twenty twenty-two, NASA tried. It crashed a spacecraft called DART into a small asteroid, about a hundred and sixty meters wide.
+    ɪn twˈɛnti twˈɛntitˈuː, nˈæsɐ tɹˈaɪd. ɪt kɹˈæʃt ɐ spˈeɪskɹæft kˈɔːld dˈɑːɹt ˌɪntʊ ɐ smˈɔːl ˈæstɚɹˌɔɪd, ɐbˌaʊt ɐ hˈʌndɹɪd ænd sˈɪksti mˈiːɾɚz wˈaɪd.
+[dart.2] The hit shortened that asteroid's orbit by thirty-two minutes.
+    ðə hˈɪt ʃˈɔːɹʔnd ðæt ˈæstɚɹˌɔɪdz ˈɔːɹbɪt baɪ θˈɜːɾitˈuː mˈɪnɪts.
+[dart.3] It was the first time humans had ever changed the motion of a natural object in space on purpose.
+    ɪt wʌzðə fˈɜːst tˈaɪm hjˈuːmənz hæd ˈɛvɚ tʃˈeɪndʒd ðə mˈoʊʃən əvə nˈætʃɚɹəl ˈɑːbdʒɛkt ɪn spˈeɪs ˌɔn pˈɜːpəs.
+[outro.0] So here's the whole ladder.
+    sˌoʊ hˈɪɹz ðə hˈoʊl lˈædɚ.
+[outro.1] Twenty meters can shatter a city's windows. Fifty to a hundred can flatten a forest. One kilometer goes global. And ten kilometers... ends an age.
+    twˈɛnti mˈiːɾɚz kæn ʃˈæɾɚɹ ɐ sˈɪɾiz wˈɪndoʊz. fˈɪfti tʊ ɐ hˈʌndɹɪd kæn flˈæʔn ɐ fˈɔːɹɪst. wˈʌn kɪlˈɑːmɪɾɚ ɡoʊz ɡlˈoʊbəl. ænd tˈɛn kɪlˈɑːmɪɾɚz... ˈɛndz ɐn ˈeɪdʒ.
+[outro.2] Which size scares you the most? Tell me in the comments.
+    wˌɪtʃ sˈaɪz skˈɛɹz juː ðə mˈoʊst? tˈɛl mˌiː ɪnðə kˈɑːmɛnts.
+[outro.3] And send this to whoever you'll be watching Apophis with, on Friday the thirteenth, twenty twenty-nine.
+    ænd sˈɛnd ðɪs tə huːˈɛvɚ juːl biː wˈɑːtʃɪŋ əpˈɑːfɪs wɪð, ˌɔn fɹˈaɪdeɪ ðə θˈɜːtiːnθ, twˈɛnti twˈɛntinˈaɪn.
+[outro.4] Subscribe to Explorer Man, for more science you can feel the scale of.
+    səbskɹˈaɪb tʊ ɛksplˈɔːɹɚ mˈæn, fɔːɹ mˈɔːɹ sˈaɪəns juː kæn fˈiːl ðə skˈeɪl ʌv.
