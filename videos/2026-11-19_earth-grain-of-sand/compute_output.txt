@@ -1,0 +1,30 @@
+scale: 1 model mm = 12,756 real km  (1 : 1.2756e+10)
+person 1.5 m                                  -> 0.118 nm
+person 1.7 m                                  -> 0.133 nm
+person 2.0 m                                  -> 0.157 nm
+Moon diameter 3,475 km                        -> 272 um
+Moon distance 384,400 km                      -> 30.13 mm
+ISS altitude ~400 km                          -> 31.4 um
+Artemis II record 406,773 km (planned max)    -> 31.89 mm
+Artemis II 400,171 km (record-break point)    -> 31.37 mm
+Sun diameter 1,392,000 km                     -> 109.1 mm
+Earth-Sun 149.6e6 km                          -> 11.73 m
+Jupiter diameter 142,984 km                   -> 11.21 mm
+Jupiter from Sun 778.6e6 km                   -> 61.04 m
+Neptune diameter 49,528 km                    -> 3.883 mm
+Neptune from Sun 4495.1e6 km                  -> 352.4 m
+Voyager 1 one light-day 25,902,068,371 km     -> 2.031 km
+Proxima NASA 40,208e9 km                      -> 3152 km
+Proxima 4.2465 ly                             -> 3149 km
+Proxima 4.2 ly                                -> 3115 km
+Milky Way 100,000 ly                          -> 7.417e+07 km
+Milky Way model 74.2 million km = 0.496 of real Earth-Sun distance; = 193 x real Earth-Moon
+person 1.7 m model in nm: 0.133 nm (atoms 0.1-0.5 nm)
+ISS model 31.4 um vs hair 17-181 um
+Sun model 10.9 cm vs grapefruit 10-15 cm
+NYC-Salt Lake City: 3,167 km
+NYC-Denver: 2,619 km
+NYC-Las Vegas: 3,585 km
+NYC-Phoenix: 3,444 km
+NYC-Los Angeles: 3,936 km
+London-Moscow: 2501 km; Lisbon-Moscow: 3906
