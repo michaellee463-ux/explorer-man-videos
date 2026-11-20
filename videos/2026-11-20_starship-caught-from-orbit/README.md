@@ -1,0 +1,1 @@
+Made 2026-11-19 in a separate chat (usage test, Fable 5.2); fact-checked there (independent agent, 2 rounds, passed). Facts, script and upload copy: Explorer Man project doc claude/starship-caught-from-orbit.md. Build files were not saved to the repo.
