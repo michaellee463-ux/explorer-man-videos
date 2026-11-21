@@ -1,0 +1,15 @@
+[
+{"key":"hook","say":"What happens if you fall into Jupiter? There's no ground to hit.","pause":0.55},
+{"key":"size","say":"Jupiter is eleven Earths wide... a giant ball of hydrogen and helium.","pause":0.35},
+{"key":"speed","say":"Fall in from deep space, and its gravity whips you up to about sixty kilometers per second.","pause":0.3},
+{"key":"mph","say":"That's over a hundred and thirty thousand miles per hour. Enough to circle Earth in eleven minutes.","pause":0.35},
+{"key":"probe","say":"The air turns you into a fireball. NASA's Galileo probe hit at a hundred and six thousand miles per hour, and took more than two hundred G's.","pause":0.35},
+{"key":"weight","say":"Say your suit survives. You'd weigh more than double, falling past storms bigger than Earth.","pause":0.35},
+{"key":"tease","say":"But the clouds aren't the scary part.","pause":0.45},
+{"key":"silent","say":"Galileo radioed home for fifty-eight minutes. Then the pressure hit twenty-three times Earth's air... and it went silent.","pause":0.4},
+{"key":"metal","say":"Deeper, the pressure hits millions of times Earth's air, and hydrogen turns into liquid metal... an ocean thousands of kilometers deep.","pause":0.4},
+{"key":"core","say":"And the core? Around twenty thousand degrees Celsius. Hotter than the surface of the Sun.","pause":0.4},
+{"key":"reveal","say":"So you never hit the bottom. You'd be crushed, melted, and vaporized... until you're just part of Jupiter.","pause":0.55},
+{"key":"share","say":"Send this to someone who thinks you could land on Jupiter.","pause":0.3},
+{"key":"comment","say":"So, would you take the jump? Yes, or no?","pause":0.2}
+]

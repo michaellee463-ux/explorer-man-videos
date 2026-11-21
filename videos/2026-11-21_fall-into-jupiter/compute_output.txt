@@ -1,0 +1,17 @@
+check v_esc from GM/R: 59.53 km/s
+fall-in speed ~ escape speed: 59.5 km/s = 133098 mph = 214200 km/h
+time to circle Earth at 59.5 km/s: 11.2 min
+Jupiter width / Earth width (equatorial): 11.21
+Jupiter width / Earth width (mean radii 69911/6371): 10.97
+Volume ratio (NSSDC): 1321.33
+gravity ratios mean/eq/polar: 2.64 2.36 2.75
+Galileo probe km/s: 47.4
+Galileo final pressure 22.7 atm ~ 23.0 bar
+core 16000 C vs Sun surface 5500C ratio 2.9
+core 20000 C vs Sun surface 5500C ratio 3.6
+core 24000 C vs Sun surface 5500C ratio 4.4
+core 24700 C vs Sun surface 5500C ratio 4.5
+core 30000 C vs Sun surface 5500C ratio 5.5
+Britannica 1/4 down layer thickness ~ 45442 km  (Earth diameter 12742 km)
+Juno 1/3 down layer thickness ~ 39616 km  (Earth diameter 12742 km)
+NASA ~halfway layer thickness ~ 27964 km  (Earth diameter 12742 km)
