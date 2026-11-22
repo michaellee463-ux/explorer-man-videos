@@ -1,0 +1,17 @@
+[
+{"key":"hook","say":"Thrown into space without a suit, you'd have less than fifteen seconds.","pause":0.55},
+{"key":"myth","say":"But you would not explode. That's a movie myth.","pause":0.35},
+{"key":"skin","say":"Your skin is stretchy and strong. You'd swell up... but you'd hold together.","pause":0.4},
+{"key":"armstrong","say":"Here's what really gets you. Above about nineteen kilometers, twice as high as Everest, the air is so thin that water boils at body temperature.","pause":0.35},
+{"key":"iss","say":"The space station flies about twenty times higher than that.","pause":0.35},
+{"key":"saliva","say":"So the saliva on your tongue... starts to boil.","pause":0.4},
+{"key":"lungs","say":"Whatever you do, don't hold your breath. The air in your lungs would expand, and could rip them.","pause":0.4},
+{"key":"tease","say":"But that's not the scariest part.","pause":0.4},
+{"key":"blackout","say":"With no oxygen, your brain shuts down fast. In under fifteen seconds, you black out.","pause":0.35},
+{"key":"cold","say":"And you wouldn't freeze solid. Deep space is about minus two hundred seventy degrees Celsius, but with no air around you, heat leaves your body slowly.","pause":0.4},
+{"key":"leblanc","say":"Now the crazy part. In nineteen sixty-six, a NASA suit tester's air hose popped off inside a vacuum chamber. His last memory... the saliva on his tongue, bubbling.","pause":0.35},
+{"key":"reveal","say":"It took eighty-seven seconds to get the air back. He woke up... with no lasting harm.","pause":0.55},
+{"key":"rule","say":"Get back to air within about ninety seconds, and you could survive.","pause":0.4},
+{"key":"share","say":"Send this to someone who thinks you'd explode in space.","pause":0.3},
+{"key":"comment","say":"So, did you think you'd explode? Yes, or no?","pause":0.3}
+]

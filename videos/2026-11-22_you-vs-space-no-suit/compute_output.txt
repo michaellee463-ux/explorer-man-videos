@@ -1,0 +1,10 @@
+Armstrong limit / Everest = 2.17
+63,000 ft in m = 19202
+ISS 370 km / Armstrong = 19.3x
+ISS 400 km / Armstrong = 20.8x
+ISS 420 km / Armstrong = 21.9x
+250 mi in km = 402
+CMB 2.725 K in C = -270.4 ; 2.735 K = -270.4
+LeBlanc 120,000 ft in km = 36.6 = 1.9 x Armstrong limit
+water vapour pressure at 37C (Buck eq, kPa) = 6.28
+87 s < 90 s: True
