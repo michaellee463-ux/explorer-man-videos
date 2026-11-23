@@ -1,0 +1,8 @@
+M31 width 180' (freestarcharts 3.0x1.0 deg) / Moon 30-31' = 5.81-6.00 Moons
+M31 width 189' (freestarcharts table) / Moon 30-31' = 6.10-6.30 Moons
+M31 width 190' (wikibooks) / Moon 30-31' = 6.13-6.33 Moons
+250,000 mph = 402,336 km/h = 111.8 km/s
+100-140 km/s = 223,694-313,171 mph
+Light left 2,500,000 years ago; Homo sapiens ~300,000 yr -> light is 8.3x older; species appeared 2,200,000 years after it left
+distance Andromeda closes per second: 69.4 miles (112 km)
+visual: moon 140 px ; galaxy 840.0 x 280.0 px (3.0 x 1.0 deg vs 0.5 deg)
