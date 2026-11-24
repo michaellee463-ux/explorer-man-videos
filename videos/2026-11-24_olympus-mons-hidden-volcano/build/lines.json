@@ -1,0 +1,72 @@
+[
+{
+"key": "hook",
+"say": "This volcano is two and a half times as tall as Mount Everest... and if you stood on it, you might not even notice.",
+"pause": 0.55
+},
+{
+"key": "name",
+"say": "It's Olympus Mons, on Mars. The biggest volcano in the solar system.",
+"pause": 0.35
+},
+{
+"key": "height",
+"say": "Its peak is about twenty-two kilometers high. About twice as high as most passenger jets fly.",
+"pause": 0.4
+},
+{
+"key": "wide",
+"say": "But the real shock is the width. About six hundred kilometers... roughly the size of Arizona.",
+"pause": 0.4
+},
+{
+"key": "scale",
+"say": "Drawn to scale, it's over twenty times wider than it is tall. A giant, gentle dome.",
+"pause": 0.4
+},
+{
+"key": "cliff",
+"say": "A wall of cliffs, kilometers high, wraps around its edge.",
+"pause": 0.35
+},
+{
+"key": "crater",
+"say": "At the top, a crater about eighty kilometers wide, and three kilometers deep.",
+"pause": 0.4
+},
+{
+"key": "tease",
+"say": "But that's not the craziest part.",
+"pause": 0.4
+},
+{
+"key": "earth",
+"say": "Why so huge? On Earth, the ground drifts over hot spots. That's how Hawaii got a whole chain of volcanoes.",
+"pause": 0.35
+},
+{
+"key": "mars",
+"say": "On Mars, the crust stays put. So lava kept piling up in one place... and weaker gravity let it climb higher.",
+"pause": 0.45
+},
+{
+"key": "reveal",
+"say": "So stand near the top... and it just looks like a gentle slope. It runs right past your horizon, only about three kilometers away.",
+"pause": 0.55
+},
+{
+"key": "never",
+"say": "You could stand on the biggest volcano in the solar system... and not even know it.",
+"pause": 0.4
+},
+{
+"key": "share",
+"say": "Send this to someone who thinks Everest is the tallest mountain there is.",
+"pause": 0.3
+},
+{
+"key": "comment",
+"say": "Would you climb it? Yes, or no?",
+"pause": 0.3
+}
+]

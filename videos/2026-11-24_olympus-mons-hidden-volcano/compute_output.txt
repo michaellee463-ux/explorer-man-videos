@@ -1,0 +1,24 @@
+height ESA/Britannica 22 km -> 2.49x Everest
+height Wikipedia/SkyAtNight datum 21.3 km -> 2.41x Everest
+height Space.com/HyperPhysics 25 km -> 2.83x Everest
+height Astronomy.com 26 km -> 2.94x Everest
+cruise 35,000 ft = 10.67 km (range 35-42k ft = 10.7-12.8 km); 22 km / cruise = 2.06x, vs 42k ft 1.72x; 22 km = 72,178 ft = 13.7 mi
+width 500 / height 21.3 = 23.5
+width 500 / height 22 = 22.7
+width 500 / height 25 = 20.0
+width 500 / height 26 = 19.2
+width 600 / height 21.3 = 28.2
+width 600 / height 22 = 27.3
+width 600 / height 25 = 24.0
+width 600 / height 26 = 23.1
+width 700 / height 21.3 = 32.9
+width 700 / height 22 = 31.8
+width 700 / height 25 = 28.0
+width 700 / height 26 = 26.9
+area of 600 km circle = 282,743 km2 ; Arizona 295,234 km2 ; ratio 0.96; 600 km = 373 mi
+horizon distance on Mars, eye 1.5 m: 3.19 km
+horizon distance on Mars, eye 1.7 m: 3.39 km
+horizon distance on Mars, eye 1.8 m: 3.49 km
+5 percent slope = 2.86 degrees
+drop over 3 km at 5 percent: 150 m
+to-scale drawing: 1000 px wide => height 36.7 px
