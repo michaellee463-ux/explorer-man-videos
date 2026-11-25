@@ -1,0 +1,12 @@
+aud/
+scenes/
+chk/
+video.mp4
+mix.wav
+still_*
+sheet*.jpg
+thumb_full.jpg
+thumb_small.png
+list.txt
+render.log
+tts.log

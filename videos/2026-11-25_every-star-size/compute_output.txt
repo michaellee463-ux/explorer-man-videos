@@ -1,0 +1,23 @@
+Sun/Earth width ratio: 109.2; volume ratio 1,302,097
+Sun                R=     1 Rsun  vol=1 Suns  radius=0.00 AU  light-around=15 s (0.00 h)  jet-around=202 d (0.6 yr)  Earths-across=109
+Sirius A           R=   1.7 Rsun  vol=5 Suns  radius=0.01 AU  light-around=25 s (0.01 h)  jet-around=344 d (0.9 yr)  Earths-across=186
+Arcturus           R=    25 Rsun  vol=15,625 Suns  radius=0.12 AU  light-around=365 s (0.10 h)  jet-around=5,059 d (13.9 yr)  Earths-across=2,730
+Aldebaran          R=    44 Rsun  vol=85,184 Suns  radius=0.20 AU  light-around=642 s (0.18 h)  jet-around=8,904 d (24.4 yr)  Earths-across=4,805
+Rigel              R=    75 Rsun  vol=421,875 Suns  radius=0.35 AU  light-around=1,094 s (0.30 h)  jet-around=15,178 d (41.6 yr)  Earths-across=8,190
+Antares            R=   700 Rsun  vol=343,000,000 Suns  radius=3.26 AU  light-around=10,207 s (2.84 h)  jet-around=141,660 d (387.8 yr)  Earths-across=76,439
+Betelgeuse         R=   750 Rsun  vol=421,875,000 Suns  radius=3.49 AU  light-around=10,936 s (3.04 h)  jet-around=151,778 d (415.5 yr)  Earths-across=81,898
+VY Canis Majoris   R=  1420 Rsun  vol=2,863,288,000 Suns  radius=6.60 AU  light-around=20,705 s (5.75 h)  jet-around=287,367 d (786.8 yr)  Earths-across=155,061
+biggest low        R=  1500 Rsun  vol=3,375,000,000 Suns  radius=6.98 AU  light-around=21,871 s (6.08 h)  jet-around=303,556 d (831.1 yr)  Earths-across=163,797
+biggest high       R=  2000 Rsun  vol=8,000,000,000 Suns  radius=9.30 AU  light-around=29,162 s (8.10 h)  jet-around=404,742 d (1,108.1 yr)  Earths-across=218,396
+R136a1 low         R=    35 Rsun  vol=42,875 Suns  radius=0.16 AU  light-around=510 s (0.14 h)  jet-around=7,083 d (19.4 yr)  Earths-across=3,822
+R136a1 high        R=    40 Rsun  vol=64,000 Suns  radius=0.19 AU  light-around=583 s (0.16 h)  jet-around=8,095 d (22.2 yr)  Earths-across=4,368
+Sun mean density 1.410 g/cm3
+Betelgeuse M=16.5 R=702: mean density 6.73e-08 g/cm3 = air(1.2e-3)/ 18,213
+Betelgeuse M=16.5 R=764: mean density 5.22e-08 g/cm3 = air(1.2e-3)/ 23,478
+Betelgeuse M=16.5 R=880: mean density 3.41e-08 g/cm3 = air(1.2e-3)/ 35,877
+Betelgeuse M=19 R=702: mean density 7.75e-08 g/cm3 = air(1.2e-3)/ 15,817
+Betelgeuse M=19 R=764: mean density 6.01e-08 g/cm3 = air(1.2e-3)/ 20,388
+Betelgeuse M=19 R=880: mean density 3.93e-08 g/cm3 = air(1.2e-3)/ 31,157
+Jupiter orbit 5.20 AU, Saturn 9.54 AU; VY CMa radius AU: 6.603663510566264 range 6.045607439250805 7.161719581881723
+Betelgeuse vs Sun width 750 ; VY/Betelgeuse 1.8933333333333333
+R136a1 vs Aldebaran width 0.7954545454545454 0.9090909090909091

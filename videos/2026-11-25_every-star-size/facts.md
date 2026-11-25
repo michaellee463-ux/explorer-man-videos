@@ -1,0 +1,42 @@
+# Facts — "How Big Is the Biggest Star? ⭐ Every Star Size Compared" (long-form, Wed 2026-11-25)
+
+**Using the data:** vidIQ public counts (Nov 25) show the Nov 18 long-form *How Big Does an Asteroid Have to Be to End the World? Every Size Compared* at **7,291 views in 7 days — a 72.9× breakout and the channel's best video ever** (Powers of Ten 1,665; Deck of Cards 45; Journey to Earth's Center 35). The "size ladder, rung by rung, each to scale, timely/extreme claim in frame 1, 'Every Size Compared' title" format is now proven, so today's long-form copies it exactly with the niche's most in-demand ladder: **star sizes** (vidIQ outliers this month: "The Largest Hypothetical Star in the Universe" 164K in 3 days, "Journey to the Largest Stars" 41K, "How Many Earths Fit Inside Jupiter?" 155K/22×). Grain-of-sand Short is now 4,817 views with 475 likes (10%), confirming to-scale object comparisons as the core visual. Frame 0 = the Sun as a dot beside the wall of VY Canis Majoris, drawn to scale, with "1,420× WIDER" already on screen.
+
+**Test:** same winning long-form formula (size ladder + "Every ___ Size Compared" title) on a new topic, plus a dramatic "breaks the scale" zoom at the midpoint (Antares) as a retention device, a "biggest ≠ heaviest" twist near the end, and a one-word comment pick (which star?).
+
+## Topic shortlist (shock / 2-s hook / proven demand / visual payoff / fit → /50)
+| Candidate | Shock | Hook | Demand | Visual | Fit | Total | Note |
+|---|---|---|---|---|---|---|---|
+| **Every star size compared: how big is the biggest star?** | 9 | 9 | 10 | 10 | 10 | **48** | niche's hottest long-form; same ladder format as our 72.9× winner; not a repeat (Betelgeuse What If #4 was one star in the Sun's place; Sun/planet Shorts were Sun vs planets — this is the star-to-star ladder) |
+| Every black hole size compared | 9 | 8 | 9 | 8 | 10 | 44 | overlaps What If #5 (Earth black hole, Sgr A*, M87*) → near-duplicate risk |
+| Biggest explosions ladder (firecracker → supernova → GRB) | 9 | 8 | 8 | 8 | 9 | 42 | overlaps asteroid long-form's Hiroshima/Chicxulub energy rungs |
+| True scale of the solar system (distances) | 8 | 7 | 9 | 7 | 10 | 41 | near-duplicate of grain-of-sand Short + Drive to the Sun |
+| Every moon in the solar system compared | 7 | 7 | 7 | 8 | 9 | 38 | weaker shock |
+| Every mountain/volcano in the solar system | 7 | 8 | 7 | 8 | 9 | 39 | Olympus Mons Short was yesterday |
+
+**Pick:** star size ladder — highest score, passes the no-repeat check, every figure verifiable (contested record sizes are presented as uncertain ranges).
+
+## Claims (each confirmed by ≥2 independent sources; derived numbers in compute.py → compute_output.txt)
+
+| Claim used | Value | Sources |
+|---|---|---|
+| Sun ≈ 109 Earths wide; ≈1.3 million Earths fit inside | NSSDC radius 695,700 km, ratio 109.2, volume 1,304,000 | NASA NSSDC Sun fact sheet https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html ; Space.com https://www.space.com/17001-how-big-is-the-sun-size-of-the-sun.html ("109 Earths… About 1.3 million Earths") |
+| Sirius: brightest star in the night sky, ≈8.6 ly, ≈1.7× the Sun's radius | | Britannica https://www.britannica.com/place/Sirius-star ("radius 1.7 times that of the Sun", "8.6 light-years"); EarthSky https://earthsky.org/brightest-stars/sirius-the-brightest-star |
+| Arcturus: brightest star in the northern half of the sky; giant, ≈25× the Sun | 25.4 R☉ | EarthSky https://earthsky.org/brightest-stars/bright-orange-arcturus-use-the-big-dipper-to-find-it/ ("about 25 times the size of our sun", "brightest star in the northern half of the sky"); Wikipedia Arcturus (25.4 R☉) |
+| Sun expected to become a red giant in about 5 billion years | 5–6 bn | Space.com https://www.space.com/14732-sun-burns-star-death.html ("In about 5 billion years"); NASA https://science.nasa.gov/exoplanets/resources/life-and-death/chapter-6/ ("some 6 billion years") → "about five billion" kept |
+| Aldebaran: eye of Taurus, ≈65 ly, ≈44× the Sun | 44–45 R☉ | EarthSky https://earthsky.org/tonightpost/brightest-stars/aldebaran-is-taurus-bloodshot-eye ; Space.com https://www.space.com/22026-aldebaran.html |
+| Rigel: blue supergiant, Orion's foot, ≈860 ly, ≈75× the Sun | 74.1 R☉ (2018) / 78.9 (2008) → "about 75" | EarthSky https://earthsky.org/brightest-stars/blue-white-rigel-is-orions-brightest-star/ (">70 times", 860 ly); Britannica https://www.britannica.com/place/Rigel (~870 ly); Wikipedia Rigel (74.1 R☉) |
+| Antares: red heart of the Scorpion, ≈700× the Sun | ESO: "diameter about 700 times larger than the Sun's"; EarthSky 680–800 | ESO eso1726 https://www.eso.org/public/news/eso1726/ ; EarthSky https://earthsky.org/brightest-stars/antares-rivals-mars-as-the-scorpions-heart |
+| Betelgeuse: Orion's shoulder, ≈750× the Sun, ≈550 ly, supernova probably not for ~100,000 years | Joyce 2020: 764 (+116/−62) R☉, 168 pc = 548 ly, 16.5–19 M☉ | Joyce et al. 2020 https://arxiv.org/abs/2006.09837 ; ANU https://science.anu.edu.au/news-events/news/supergiant-star-betelgeuse-smaller-closer-first-thought ("750 times", "530 light years", "around 100,000 years"); Kavli IPMU https://www.ipmu.jp/en/node/8466 ("more than 100,000 years") |
+| Betelgeuse's gas is, on average, thousands of times thinner than air | mean density 3.4–7.8 × 10⁻⁸ g/cm³ vs sea-level air 1.2 × 10⁻³ → 15,800–35,900× thinner (compute.py from Joyce mass + radius ranges) | Joyce 2020 (inputs); Koberlein, "Red Hot Vacuum" https://archive.briankoberlein.com/2015/05/19/red-hot-vacuum/ (far less dense than Earth's atmosphere); our arithmetic. Worded conservatively as "thousands of times" |
+| VY Canis Majoris ≈1,420× the Sun; in the Sun's place it would reach past Jupiter's orbit; ≈3,900 ly | 1420 ± 120 R☉ = 6.6 AU (range 6.0–7.2 AU) > Jupiter 5.2 AU, < Saturn 9.5 AU | Wittkowski et al. 2012, A&A 540, L12 https://ui.adsabs.harvard.edu/abs/2012A%26A...540L..12W/abstract ; ESA/Hubble 2021 https://www.esa.int/ESA_Multimedia/Images/2021/03/Hubble_solves_mystery_of_monster_star_s_dimming ("between the orbits of Jupiter and Saturn"); distance Zhang 2012 ApJ 744, 23 (1.20 kpc ≈ 3,900 ly) |
+| Almost 3 billion Suns fit inside VY CMa | 1420³ = 2.86 billion | compute.py |
+| Jet (~900 km/h) around VY CMa ≈ 790 years ("nearly 800"); around the Sun ≈ 202 days ("about seven months") | | compute.py (circumference 2πR ÷ 900 km/h; airliner cruise ≈ Mach 0.85 ≈ 900 km/h) |
+| Light around: Sun ≈15 s; Rigel ≈18 min; Antares ≈2.8 h ("almost three hours"); VY ≈5.75 h ("almost six hours") | c = 299,792.458 km/s (NIST, exact) | compute.py; NIST https://physics.nist.gov/cuu/Constants/Value/c.html |
+| >15,000 Suns fit inside Arcturus (25³ = 15,625); ≈4,800 Earths across Aldebaran ("almost five thousand") | | compute.py |
+| Sun is "barely a single pixel" next to Antares in the video | Antares drawn at 0.33×1080 = 356 px radius → Sun 0.51 px radius ≈ 1 px wide | render.py scale |
+| Biggest known stars are uncertain; roughly 1,500–2,000× the Sun (e.g. Stephenson 2-18); no hard surface; distances uncertain; keep being revised | | EarthSky https://earthsky.org/space/how-big-is-the-biggest-monster-star/ ("on some sources… 2,150 times… distance is uncertain – by as much as 50%"); Space.com https://www.space.com/41290-biggest-star.html ("all stellar sizes are estimates… don't have a rigid surface"); ESO eso2417 https://eso.org/public/news/eso2417/ (WOH G64 "roughly 2000 times"); Munoz-Sanchez 2024 https://arxiv.org/abs/2411.19329 (WOH G64 changed) |
+| R136a1: most massive known star, Tarantula Nebula, ≈160,000 ly; mass ≈200× the Sun or more; only ≈35–40× wider (smaller than Aldebaran) | Kalari 2022: 196 (+34/−27) M☉; earlier 250–320; Keszthelyi 2025 birth mass 346; radius 35 (Crowther) – 42.7 (Bestenlehner) R☉ | NOIRLab/Gemini noirlab2220 https://gemini.edu/news/press-releases/noirlab2220 ; Kalari 2022 https://arxiv.org/pdf/2207.13078 ; Crowther FAQ https://pacrowther.sites.sheffield.ac.uk/r136a1-faqs ("radius of 35 solar radii") |
+| Red supergiants are cool "by star standards"; the heaviest stars are compact and blazing hot | Betelgeuse ~3,600 K surface vs R136a1 ~46,000 K+ | Joyce 2020 / Crowther 2010 (R136a1 hot Wolf-Rayet-type star); qualitative wording only |
+
+Drawn sizes: every ladder rung is drawn to scale (radii above), bottom-aligned; the dashed rings show the 1,500–2,000× estimate range; VY in the Sun's place uses the 6.6 AU radius with orbits 1.0, 1.52, 5.20, 9.54 AU.
