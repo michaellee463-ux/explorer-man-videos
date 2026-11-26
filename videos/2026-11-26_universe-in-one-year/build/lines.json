@@ -1,0 +1,19 @@
+[
+{"key":"hook","say":"If the whole history of the universe were squeezed into one year... what time would we show up?","pause":0.55},
+{"key":"bang","say":"Midnight, January first. The Big Bang.","pause":0.35},
+{"key":"scale","say":"Every day on this calendar is about thirty-eight million years. Every second, over four hundred years.","pause":0.35},
+{"key":"galaxy","say":"By January eighth, galaxies already exist. The James Webb telescope has seen one.","pause":0.35},
+{"key":"empty","say":"Then February. March. All through summer... still no Sun.","pause":0.35},
+{"key":"sun","say":"Our Sun and Earth only form in early September.","pause":0.3},
+{"key":"life","say":"Life? Late September. Just tiny microbes.","pause":0.35},
+{"key":"tease","say":"But the craziest part... is December.","pause":0.45},
+{"key":"animals","say":"Animals don't explode across the oceans until December seventeenth.","pause":0.3},
+{"key":"dinos","say":"Dinosaurs show up on Christmas Day.","pause":0.3},
+{"key":"rock","say":"And the asteroid wipes them out on the morning of December thirtieth.","pause":0.35},
+{"key":"eleven","say":"New Year's Eve, eleven P M. Still nobody like us.","pause":0.4},
+{"key":"reveal","say":"Our species finally shows up... at about eleven forty-eight P M.","pause":0.6},
+{"key":"pyr","say":"The pyramids? About ten seconds before midnight.","pause":0.35},
+{"key":"you","say":"And if you live to eighty, your whole life fits in less than a fifth of a second. About one blink.","pause":0.55},
+{"key":"share","say":"Send this to someone who thinks dinosaurs lived ages ago. On this calendar, it was last week.","pause":0.35},
+{"key":"comment","say":"Which shocked you more? Dinosaurs on Christmas, or us at eleven forty-eight?","pause":0.2}
+]
