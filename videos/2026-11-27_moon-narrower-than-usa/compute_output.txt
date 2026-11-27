@@ -1,0 +1,23 @@
+Diameters (km): {'Moon': 3474.8, 'Ceres': 939.4, 'Pluto': 2376.6, 'Mercury': 4879.4, 'Ganymede': 5268.2, 'Mars': 6779.0}
+states in lower 48 (incl. DC): 49
+max great-circle distance across lower-48 outline (Natural Earth 1:50m): 4648 km between (-122.998791, 37.988616) and (-67.014015, 44.867749)
+  -> coast-to-coast is 4,509-4,648 km depending on endpoints; Moon is 75-77% of it; Pluto 51-53%; Mercury 1.05-1.08 x
+Moon: 3475 km = 2159 mi = 77% of US coast-to-coast 4509 km
+Pluto: 2377 km = 1477 mi = 53% of US coast-to-coast 4509 km
+Mercury: 4879 km = 3032 mi = 108% of US coast-to-coast 4509 km
+Ganymede: 5268 km = 3274 mi = 117% of US coast-to-coast 4509 km
+Pluto / US width (2,800 mi = 4,506 km): 0.53
+Texas width 773 mi = 1244 km; Ceres / Texas width = 0.76
+Texas area from outline (equal-area): 685710 km2 (official 695,662 km2)
+Texas outline bbox: 1246 km E-W x 1181 km N-S
+largest circle inside Texas outline: diameter 624 km  (Ceres 939 km -> fits fully: False)
+Ceres disk area 693092 km2 = 100% of Texas
+Moon surface area: 37.93 million km2
+US total area: 9.83 million km2; Moon / US = 3.86
+Moon / Africa = 1.25; Moon / Asia = 0.85
+Pluto surface area: 17.74 million km2; Pluto / Russia = 1.038
+Flattened Moon skin as one disk: diameter 6950 km (= 2 x Moon diameter)
+Ganymede - Mercury = 389 km
+Mars / US width: 1.46-1.50 ; Earth / US width: 2.74-2.83
+Australia ~4,000 km E-W vs Moon 3,475 km: Australia wider by 525 km
+Australia mainland widest W->E great-circle (Natural Earth): 4045 km between (113.79502, -22.332129) and (153.60459, -28.854492); Moon 3475 km

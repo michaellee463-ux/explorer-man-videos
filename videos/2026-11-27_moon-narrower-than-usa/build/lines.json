@@ -1,0 +1,77 @@
+[
+{
+"key": "hook",
+"say": "The Moon... is narrower than the United States.",
+"pause": 0.55
+},
+{
+"key": "map",
+"say": "Drop it on a map, to scale, and it doesn't even reach coast to coast. About three thousand five hundred kilometers wide... versus over four thousand five hundred.",
+"pause": 0.4
+},
+{
+"key": "aus",
+"say": "Even Australia is wider than the Moon.",
+"pause": 0.4
+},
+{
+"key": "ceres",
+"say": "Ceres, the biggest thing in the asteroid belt? Lay it over Texas... and it covers about the same area.",
+"pause": 0.35
+},
+{
+"key": "pluto",
+"say": "Pluto is only about half as wide as the U S.",
+"pause": 0.35
+},
+{
+"key": "mercury",
+"say": "Mercury, a whole planet, is just a little wider than America.",
+"pause": 0.35
+},
+{
+"key": "ganymede",
+"say": "And Ganymede, a moon of Jupiter, is even bigger than Mercury.",
+"pause": 0.4
+},
+{
+"key": "mars",
+"say": "Mars? About one and a half Americas wide.",
+"pause": 0.35
+},
+{
+"key": "earth",
+"say": "And our whole planet... is less than three United States across.",
+"pause": 0.45
+},
+{
+"key": "tease",
+"say": "But here's the twist. The Moon is narrower... but it is not smaller.",
+"pause": 0.45
+},
+{
+"key": "peel",
+"say": "Peel its surface like an orange, and lay it flat. It would cover almost four United States. More than all of Africa. One flat circle... twice as wide as the Moon itself.",
+"pause": 0.55
+},
+{
+"key": "russia",
+"say": "And Pluto's entire surface? About the size of Russia.",
+"pause": 0.35
+},
+{
+"key": "world",
+"say": "A whole world... with about as much ground as one country.",
+"pause": 0.5
+},
+{
+"key": "share",
+"say": "Send this to someone who thinks the Moon is tiny.",
+"pause": 0.35
+},
+{
+"key": "comment",
+"say": "Did you think the Moon was wider than America? Yes, or no?",
+"pause": 0.3
+}
+]
